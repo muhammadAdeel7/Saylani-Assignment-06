@@ -3,6 +3,14 @@
     padding: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#convert{
+    border: none;
+    font-size: 1.15rem;
+}
+#name{
+    border: none;
+    font-size: 1.15rem;
+}
 
 body {
     background-color: #eae7ec;
